@@ -8,3 +8,8 @@ Future work may expand to Baysian LP etc.
 
 Note:
 - The replication file name are one to one unless it is pointed out seperately. For example, lp_example.py is the morror file to lp_example.do
+
+
+main reference: 
+
+- Estimation and Inference of Impulse Responses by Local Projections, Òscar Jordà, American Economic Review 95(1), March 2005, 161-182
